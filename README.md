@@ -90,12 +90,4 @@ npm run dev
 
 ---
 
-## 📌 Future Improvements
-
-- Add user authentication and data history tracking
-- Deploy with Docker and NGINX for production use
-- Train a more complex model with broader datasets
-- Graphical analytics dashboard using D3 or Chart.js
-
----
 
